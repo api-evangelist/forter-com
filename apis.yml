@@ -1,0 +1,102 @@
+aid: forter-com
+name: Forter
+description: >-
+  Forter is a New York City-headquartered ecommerce fraud prevention and
+  digital identity platform founded in 2013 by Michael Reitblat and Alon
+  Shemesh. The company operates an AI-powered decision platform for digital
+  commerce that helps merchants approve more legitimate transactions while
+  blocking fraud, account takeover, payment abuse, policy abuse, and
+  return/refund abuse. Forter's products include Fraud Management, Payment
+  Optimization (3DS, card vaulting, network uplift, payment orchestration,
+  predictive routing), Dispute / Chargeback Recovery, Account Protection
+  (sign-up, login, session), Abuse Prevention (checkout and post-purchase),
+  Element for Payment Service Providers, and an Agentic Commerce suite for
+  AI-agent-initiated transactions. The platform is built on what Forter
+  describes as the world's largest first-party identity network, derived
+  from real consumer interactions across hundreds of leading retailers,
+  marketplaces, and food-delivery brands such as Adidas, eBay, Instacart,
+  Nordstrom, Priceline, Sephora, and Wayfair. Forter exposes a public Core
+  API (orders, 3DS, disputes, accounts, merchants, compensation, data
+  privacy) and an Evidence API documented at docs.forter.com, alongside
+  prebuilt integrations for Magento/Adobe Commerce, Salesforce B2C
+  Commerce, commercetools, Adyen, Braintree, Checkout.com, Paysafe,
+  Worldline, Worldpay, and others. Forter is also the sponsor of the
+  open-source Trusted Agentic Commerce Protocol, a secure authentication
+  and data-encryption protocol for AI agents, merchants, and merchant
+  vendors. The company has raised approximately $525M in venture funding
+  from Sequoia Capital, Bessemer Venture Partners, NEA, and others, and
+  has been valued at roughly $3B at last public reporting.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Fraud Prevention
+  - Ecommerce Fraud
+  - Payment Optimization
+  - Identity
+  - Identity Intelligence
+  - Account Protection
+  - Account Takeover
+  - Abuse Prevention
+  - Chargeback Recovery
+  - Disputes
+  - 3D Secure
+  - Payment Orchestration
+  - Risk Decisioning
+  - Agentic Commerce
+  - Trusted Agentic Commerce Protocol
+  - Retail
+  - Marketplaces
+  - PSP
+url: https://raw.githubusercontent.com/api-evangelist/forter-com/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.forter.com
+  - type: Documentation
+    url: https://docs.forter.com
+  - type: APIOverview
+    url: https://docs.forter.com/docs/api-overview
+  - type: FraudManagement
+    url: https://docs.forter.com/fraud-management
+  - type: EvidenceAPI
+    url: https://docs.forter.com/evidence-api
+  - type: Products
+    url: https://www.forter.com/products/
+  - type: Solutions
+    url: https://www.forter.com/solutions/
+  - type: Partners
+    url: https://www.forter.com/partners/
+  - type: Customers
+    url: https://www.forter.com/customers/
+  - type: Company
+    url: https://www.forter.com/company/
+  - type: Newsroom
+    url: https://www.forter.com/newsroom/
+  - type: Blog
+    url: https://www.forter.com/blog/
+  - type: ResourceCenter
+    url: https://www.forter.com/resources/
+  - type: Careers
+    url: https://www.forter.com/careers/
+  - type: Contact
+    url: https://www.forter.com/contact-us/
+  - type: TrustedAgenticCommerceProtocol
+    url: https://github.com/forter/trusted-agentic-commerce-protocol
+  - type: GitHub
+    url: https://github.com/forter
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/forter/
+  - type: Twitter
+    url: https://x.com/ForterGlobal
+  - type: Instagram
+    url: https://www.instagram.com/forter_life/
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/forter
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
