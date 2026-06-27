@@ -2,11 +2,18 @@
   "repo": "forter-com",
   "feeds": [
     {
-      "source": "https://www.forter.com/blog/",
+      "source": "https://www.forter.com/blog/feed/",
       "feed_url": "https://www.forter.com/blog/feed/",
       "title": "",
-      "saved": 1,
-      "method": "discovered"
+      "saved": 2,
+      "method": "feed"
+    },
+    {
+      "source": "https://www.forter.com/newsroom/feed/",
+      "feed_url": "https://www.forter.com/newsroom/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
     },
     {
       "source": "https://www.forter.com/newsroom/",
@@ -16,6 +23,6 @@
       "method": "discovered"
     }
   ],
-  "post_count": 2,
-  "fetched": "2026-06-14T20:42:17Z"
+  "post_count": 4,
+  "fetched": "2026-06-27T12:03:07Z"
 }
